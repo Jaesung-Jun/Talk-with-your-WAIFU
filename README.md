@@ -120,3 +120,4 @@ python discord_ui.py
 
 ### License
 Apache-2.0 License.
+MLAsk - BSD 3.0 License
