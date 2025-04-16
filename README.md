@@ -105,12 +105,12 @@ DISCORD_SETTINGS:
   - command_prefix: "!" # 커맨드 접두사를 적어주세요.
   - command: "speak" # 커맨드를 적어주세요 (기본 설정으로는 !speak [메세지] 가 됩니다.)
 ```
-### 3. 실행
+### 4. 실행
 UI를 실행하려면 아래 명령어를 입력해주세요.
 ```bash
 python ui.py
 ```
-### 4. (선택) Discord Bot
+### 5. (선택) Discord Bot
 디스코드 봇으로 실행하려면 아래 명령어를 입력해주세요.
 ```bash
 pip install discord.py==2.4.0
