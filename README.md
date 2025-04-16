@@ -17,7 +17,11 @@
 
 ### 데모 영상
 
-https://github.com/user-attachments/assets/a57e7a35-1b89-474a-92bd-3ff491ec979c
+
+
+https://github.com/user-attachments/assets/9a197a48-00a2-493c-94d6-7fe01607496f
+
+
 Youtube : https://www.youtube.com/watch?v=_wBLcubwFF8
 
 ## 주요 기능
