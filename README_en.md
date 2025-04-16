@@ -15,7 +15,11 @@ Train your favorite character's voice and interact with them via a Discord bot o
 
 ### Demo Video
 
-https://github.com/user-attachments/assets/a57e7a35-1b89-474a-92bd-3ff491ec979c  
+
+
+Uploading demo_holo-cut.mp4…
+
+
 Youtube : https://www.youtube.com/watch?v=_wBLcubwFF8
 
 ## Features
