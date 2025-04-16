@@ -1,0 +1,8 @@
+*.pth
+*.ttf
+*.otf
+*.jpg
+*.pyc
+__pycache__/
+settings.yaml
+debug/
