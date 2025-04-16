@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/icon.png" width="512" />
+    <img src="assets/icon_holo.png" width="512" />
 </p>
 
 # Talk with your WAIFU
