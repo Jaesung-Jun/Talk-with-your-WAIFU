@@ -17,7 +17,7 @@ Train your favorite character's voice and interact with them via a Discord bot o
 
 
 
-Uploading demo_holo-cut.mp4…
+https://github.com/user-attachments/assets/5148f6fd-114e-4f0a-8c29-586416e9dad5
 
 
 Youtube : https://www.youtube.com/watch?v=_wBLcubwFF8
@@ -121,3 +121,4 @@ python discord_ui.py
 
 ### License
 Apache-2.0 License.
+MLAsk - BSD 3.0 License
