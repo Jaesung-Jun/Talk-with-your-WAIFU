@@ -15,7 +15,11 @@ Train your favorite character's voice and interact with them via a Discord bot o
 
 ### Demo Video
 
-https://github.com/user-attachments/assets/a57e7a35-1b89-474a-92bd-3ff491ec979c  
+
+
+https://github.com/user-attachments/assets/5148f6fd-114e-4f0a-8c29-586416e9dad5
+
+
 Youtube : https://www.youtube.com/watch?v=_wBLcubwFF8
 
 ## Features
@@ -117,3 +121,4 @@ python discord_ui.py
 
 ### License
 Apache-2.0 License.
+MLAsk - BSD 3.0 License
