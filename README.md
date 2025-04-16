@@ -5,7 +5,6 @@
 # Talk with your WAIFU
 
 ## Introduction
-### Talk with your WAIFU v0.1.
 
 [ENGLISH README](./README_en.md)
 
