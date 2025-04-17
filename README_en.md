@@ -32,8 +32,8 @@ If you provide a rich set of character lines and background settings to the Assi
 
 When GPT Assistants generate lines, make sure it outputs the original and the translation separated by a delimiter.  
 ```
-예시 1 : 貴方が好きです。付き合ってください。[Delimeter]I like you. Please go out with me.
-예시 2 : あの、私！君に伝えたいことがあるの！[Delimeter]Um, I! I have something to tell you!
+Example 1 : 貴方が好きです。付き合ってください。[Delimeter]I like you. Please go out with me.
+Example 2 : あの、私！君に伝えたいことがあるの！[Delimeter]Um, I! I have something to tell you!
 ```
 
 ### 2. TTS
